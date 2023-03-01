@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dwaiszy
-- 👀 I’m interested in Coding Theory, Cryptography. 
+- 👋 Hi, I’m Nhi
+- 👀 I’m interested in Blockchain, Cryptography, Coding Theory. 
 
 
 <!---
